@@ -25,12 +25,12 @@ public class Main {
     }
 
     public static void task2() {
-        float num1 = 27.12F;
+        double num1 = 27.12F;
         long num2 = 987678965549L;
         float num3 = 2.786F;
         short num4 = 569;
         short num5 = -159;
-        short num6 = 27897;
+        int num6 = 27897;
         byte num7 = 67;
     }
 
